@@ -1,0 +1,47 @@
+{
+    "access_token": "ya29.A0ARrdaM8z8unziRmNkc3wbGPwrmWcuQjcERQ-5XaMF4s2A1dxtgJj2ql-3Pog7gjMCGvpcU6g9cg7QzlpH8mNku0AGcTHEJkHLpXdYtP-ENrTmjG-ofKoTbcqyfIyusGVK0he1sjZiCPz7IcUbhnDeAJUD6lubQ",
+    "account_list": [
+        {
+            "auth": "m6wp4yv2u9iaq34ghgxq1a8m69ppr3gl6pmstxpixw1pdbegg0",
+            "password": "avm12345",
+            "pic": "https://wallpaperaccess.com/full/556378.jpg",
+            "username": "thejagstudio"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1ftYBSfRJFswEPstHjRY-7brTjtVlXdTk",
+            "language": "en",
+            "name": "Movies",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "75285487751-sjje6sfes7nkc27ktpe0p2g1c7quepqv.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "",
+    "fetch_assets": "false",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "refresh_token": "1//0gplzmK4HxN7jCgYIARAAGBASNwF-L9Irso3NQOyXVpD4cAepQ7G1Lc0tpDD6kZY0o2G0hien6L_uDnlITY_apnGHxCmp6k7H_aM",
+    "remove_duplicates": "false",
+    "remove_no_poster": "false",
+    "secret_key": "@liblh",
+    "service_accounts": [],
+    "signup": "false",
+    "subtitles": false,
+    "tmdb_api_key": "62f468841882603c875ca0d32315792e",
+    "token_expiry": "2022-02-07 18:21:20.113881",
+    "transcoded": "true",
+    "ui_config": {
+        "custom_button": {},
+        "icon": "https://wallpaperaccess.com/full/556378.jpg",
+        "title": "TheJagStudio"
+    }
+}

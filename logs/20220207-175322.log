@@ -1,0 +1,10 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.107:9999/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:23:25] "[33mGET /browse/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:23:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:23:34] "[33mGET /browse/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:23:41] "[33mGET /browse/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:23:50] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:24:05] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.107 - - [07/Feb/2022 23:24:10] "[33mGET / HTTP/1.1[0m" 404 -
